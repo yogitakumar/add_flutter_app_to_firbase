@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309163639341",
+    "project_id": "flutterapptofirebase",
+    "storage_bucket": "flutterapptofirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309163639341:android:c9b14e40b8fda90ee12ea4",
+        "android_client_info": {
+          "package_name": "com.yogita.add_flutter_app_to_firbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309163639341-kc1cf5b5e36o9h6l4qr7662q4k5pqstp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzPDNreOzEZB4CGmnqrGLB7-i53fPFaXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309163639341-kc1cf5b5e36o9h6l4qr7662q4k5pqstp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
